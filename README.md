@@ -1,7 +1,6 @@
 # furniture_shop
 
 Slicing UI Furnitute App
-Preview App
 
 
 
